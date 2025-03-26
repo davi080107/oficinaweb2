@@ -1,0 +1,20 @@
+* {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: blue;
+}
+.banda {
+    background-color: #11c255;
+    color: #917919;
+    padding: 1rem;
+    margin: 1rem;
+}
+.fita {
+    background-color: #d1218b;
+    color: #d9fa02;
+    padding: 1rem;
+    margin: 1rem;
+}
